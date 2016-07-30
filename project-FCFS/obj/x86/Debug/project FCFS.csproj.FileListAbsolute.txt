@@ -1,0 +1,44 @@
+D:\تانيه ترم اول\OS\project FCFS\project FCFS\bin\Debug\project FCFS.exe
+D:\تانيه ترم اول\OS\project FCFS\project FCFS\bin\Debug\project FCFS.pdb
+D:\تانيه ترم اول\OS\project FCFS\project FCFS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\تانيه ترم اول\OS\project FCFS\project FCFS\obj\x86\Debug\project_FCFS.Form1.resources
+D:\تانيه ترم اول\OS\project FCFS\project FCFS\obj\x86\Debug\project_FCFS.Properties.Resources.resources
+D:\تانيه ترم اول\OS\project FCFS\project FCFS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\تانيه ترم اول\OS\project FCFS\project FCFS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\تانيه ترم اول\OS\project FCFS\project FCFS\obj\x86\Debug\project FCFS.exe
+D:\تانيه ترم اول\OS\project FCFS\project FCFS\obj\x86\Debug\project FCFS.pdb
+C:\Users\win 7\Desktop\project FCFS\project FCFS\obj\x86\Debug\project FCFS.exe
+C:\Users\win 7\Desktop\project FCFS\project FCFS\obj\x86\Debug\project FCFS.pdb
+C:\Users\win 7\Desktop\project FCFS\project FCFS\bin\Debug\project FCFS.exe
+C:\Users\win 7\Desktop\project FCFS\project FCFS\bin\Debug\project FCFS.pdb
+C:\Users\win 7\Desktop\project FCFS\project FCFS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\win 7\Desktop\project FCFS\project FCFS\obj\x86\Debug\project_FCFS.Form1.resources
+C:\Users\win 7\Desktop\project FCFS\project FCFS\obj\x86\Debug\project_FCFS.Properties.Resources.resources
+C:\Users\win 7\Desktop\project FCFS\project FCFS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\win 7\Desktop\project FCFS\project FCFS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\project FCFS\project FCFS\obj\x86\Debug\project FCFS.exe
+E:\project FCFS\project FCFS\obj\x86\Debug\project FCFS.pdb
+E:\project FCFS\project FCFS\bin\Debug\project FCFS.exe
+E:\project FCFS\project FCFS\bin\Debug\project FCFS.pdb
+E:\project FCFS\project FCFS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\project FCFS\project FCFS\obj\x86\Debug\project_FCFS.Form1.resources
+E:\project FCFS\project FCFS\obj\x86\Debug\project_FCFS.Properties.Resources.resources
+E:\project FCFS\project FCFS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\project FCFS\project FCFS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\project FCFS(true)\project FCFS\obj\x86\Debug\project FCFS.exe
+E:\project FCFS(true)\project FCFS\obj\x86\Debug\project FCFS.pdb
+E:\project FCFS(true)\project FCFS\bin\Debug\project FCFS.exe
+E:\project FCFS(true)\project FCFS\bin\Debug\project FCFS.pdb
+E:\project FCFS(true)\project FCFS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\project FCFS(true)\project FCFS\obj\x86\Debug\project_FCFS.Form1.resources
+E:\project FCFS(true)\project FCFS\obj\x86\Debug\project_FCFS.Properties.Resources.resources
+E:\project FCFS(true)\project FCFS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\project FCFS(true)\project FCFS\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\مشاريعي\project FCFS(true)\project FCFS\obj\x86\Debug\project FCFS.exe
+F:\مشاريعي\project FCFS(true)\project FCFS\obj\x86\Debug\project FCFS.pdb
+F:\مشاريعي\project FCFS(true)\project FCFS\bin\Debug\project FCFS.exe
+F:\مشاريعي\project FCFS(true)\project FCFS\bin\Debug\project FCFS.pdb
+F:\مشاريعي\project FCFS(true)\project FCFS\obj\x86\Debug\project FCFS.csprojResolveAssemblyReference.cache
+F:\مشاريعي\project FCFS(true)\project FCFS\obj\x86\Debug\project_FCFS.Form1.resources
+F:\مشاريعي\project FCFS(true)\project FCFS\obj\x86\Debug\project_FCFS.Properties.Resources.resources
+F:\مشاريعي\project FCFS(true)\project FCFS\obj\x86\Debug\project FCFS.csproj.GenerateResource.Cache
